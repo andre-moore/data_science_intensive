@@ -4,6 +4,7 @@ The data being archived in this github repository represents projects that were 
 
 ## Project 1 - Using Python Pandas to work with JSON and XML files 
 
-1. Working with JSON (sliderule_dsi_json_exercise.ipynb)
+1. Working with JSON 
+sliderule_dsi_json_exercise.ipynb
 
 2. Working with XML
