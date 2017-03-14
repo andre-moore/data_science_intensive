@@ -1,5 +1,5 @@
 This readme contains a description of the files used by the Jupyter notebooks.
-mondial_database_less 
-mondial_database
-world_bank_projects_less
-world_bank_projects
+world_bank_projects_less.json
+world_bank_projects.json
+mondial_database_less.xml
+mondial_database.xml
