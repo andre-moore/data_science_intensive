@@ -1,4 +1,4 @@
-<B>Springboard Data Science Intensive</B>
+# Springboard Data Science Intensive
 
 The data being archived in this github repository represents projects that were completed during several months of assignments in the Springboard Data Science Intensive Program.
 
