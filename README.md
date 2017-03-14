@@ -6,6 +6,6 @@ The data being archived in this github repository represents projects that were 
 
 1. Working with JSON
 
-sliderule_dsi_json_exercise.ipynb
+    sliderule_dsi_json_exercise.ipynb
 
 2. Working with XML
