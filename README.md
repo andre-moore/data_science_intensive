@@ -15,6 +15,7 @@ Using data in file 'data/world_bank_projects.json' and the techniques demonstrat
     
 
 2. Working with XML (See sliderule_dsi_xml_exercise.ipynb)
+
 Using data in 'data/mondial_database.xml', the examples above, and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, find
 
     10 countries with the lowest infant mortality rates
