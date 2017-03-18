@@ -10,8 +10,8 @@ Using data in file 'data/world_bank_projects.json', solve the following;
 
     a) Find the 10 countries with most projects
     b) Find the top 10 major project themes (using column 'mjtheme_namecode')
-    c) In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing 
-    names filled in.
+    c) In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe
+    with the missing names filled in.
 
     
 
