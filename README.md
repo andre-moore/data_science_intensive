@@ -6,7 +6,7 @@ The data being archived in this github repository represents projects that were 
 
 1. Working with JSON (See sliderule_dsi_json_exercise.ipynb)
 
-Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
+Using data in file 'data/world_bank_projects.json', solve the following;
 
     a) Find the 10 countries with most projects
     b) Find the top 10 major project themes (using column 'mjtheme_namecode')
@@ -17,7 +17,7 @@ Using data in file 'data/world_bank_projects.json' and the techniques demonstrat
 
 2. Working with XML (See sliderule_dsi_xml_exercise.ipynb)
 
-Using data in 'data/mondial_database.xml', the examples above, and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, find
+Using data in 'data/mondial_database.xml' and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, solve the following;
 
     a) 10 countries with the lowest infant mortality rates
     b) 10 cities with the largest population
