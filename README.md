@@ -8,9 +8,9 @@ The data being archived in this github repository represents projects that were 
 
 Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 
-    Find the 10 countries with most projects
-    Find the top 10 major project themes (using column 'mjtheme_namecode')
-    In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
+    a) Find the 10 countries with most projects
+    b) Find the top 10 major project themes (using column 'mjtheme_namecode')
+    c) In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names  filled in.
 
     
 
@@ -18,7 +18,7 @@ Using data in file 'data/world_bank_projects.json' and the techniques demonstrat
 
 Using data in 'data/mondial_database.xml', the examples above, and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, find
 
-    10 countries with the lowest infant mortality rates
-    10 cities with the largest population
-    10 ethnic groups with the largest overall populations (sum of best/latest estimates over all countries)
+    a) 10 countries with the lowest infant mortality rates
+    b) 10 cities with the largest population
+    c) 10 ethnic groups with the largest overall populations (sum of best/latest estimates over all countries)
     name and country of a) longest river, b) largest lake and c) airport at highest elevation
