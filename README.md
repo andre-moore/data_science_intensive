@@ -4,11 +4,17 @@ The data being archived in this github repository represents projects that were 
 
 ## Project 1 - Using Python Pandas to work with JSON and XML files 
 
-1. Working with JSON
+1. Working with JSON (See sliderule_dsi_json_exercise.ipynb)
 
-    sliderule_dsi_json_exercise.ipynb
+Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 
-2. Working with XML
+    Find the 10 countries with most projects
+    Find the top 10 major project themes (using column 'mjtheme_namecode')
+    In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
+
+    
+
+2. Working with XML (See sliderule_dsi_xml_exercise.ipynb)
 Using data in 'data/mondial_database.xml', the examples above, and refering to https://docs.python.org/2.7/library/xml.etree.elementtree.html, find
 
     10 countries with the lowest infant mortality rates
